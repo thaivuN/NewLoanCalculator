@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">The Most Dangerous Loan Calculator</string>
+    <string name="topCenterName">Loan calculator</string>
+    <string name="loanAmLbl">Loan Amount</string>
+    <string name="termOfLoanLbl">Term of Loan (years)</string>
+    <string name="interestLbl">Yearly Interest Rate</string>
+    <string name="loanAmHint">50000</string>
+    <string name="termOfLoanHint">7</string>
+    <string name="interestHint">7.5</string>
+    <string name="resultLbl">Results</string>
+    <string name="mPayResultLbl">Monthly Payment</string>
+    <string name="totalPayResultLbl">Total Payment</string>
+    <string name="totalInterResultLbl">Total Interest</string>
+    <string name="calcButt">Calculate</string>
+    <string name="clearButt">Clear</string>
+    <string name="errorMess">Please don\'t put invalid, filthy pleb</string>
+</resources>
