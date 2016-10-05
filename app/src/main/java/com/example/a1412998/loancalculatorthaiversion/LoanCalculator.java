@@ -21,6 +21,10 @@ public class LoanCalculator {
         this.loanAmount = loanAmount;
         this.numberOfYears = numberOfYears;
         this.yearlyInterestRate = yearlyInterestRate;
+
+
+
+
     }
 
     public double getLoanAmount ()
